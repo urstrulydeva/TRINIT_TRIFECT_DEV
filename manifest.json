@@ -6,7 +6,7 @@
         "default_popup": "extensiona.html",
         "default_icon": "co2.png"
     },
-    "host_permissions": ["https://api.websitecarbon.com"],
+    "host_permissions": ["https://api.websitecarbon.com/site"],
     "permissions": ["webRequest", "tabs","storage"],
     "background": { "service": ["extensiona.js"]},
     
